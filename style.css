@@ -1,0 +1,91 @@
+@import url(normalize.css);
+body{margin: 0;
+    font-family: Roboto, sans-serif;
+padding-top: 84px;}
+.container{width: 100%;
+max-width: 1219px;
+padding-left: 55px;
+padding-right: 55px;
+margin: auto;}
+header{background-image: url(img/Rectangle.png);
+background-size: cover;
+height: 84px;
+position: fixed;
+width: 100%;
+top: 0;}
+.logo img{width: 184px;
+height: 45px;
+padding-top: 20px;
+float: left;}
+nav{float: right;
+padding: 29px;
+font-size: 24px;
+color: #ffffff}
+nav a{text-align: center;
+text-decoration: none;
+color: #ffffff;}
+.jumbotron{background-image: url(img/image.png);
+    background-size: cover;
+    padding-top: 160px;
+    padding-bottom: 160px;
+}
+.main_tittle{color:#ffffff;
+text-align: center;
+font-size: 72px;
+}
+.the_problem{
+background-color: #EEEEEE;
+background-size: cover;
+padding-top: 1px;
+}
+.tittle{color: #007765;
+text-align: center;
+font-size: 64px;
+padding-top: 48x;}
+.text{font-size: 32px;
+font-style: normal;
+margin-top:16px;
+padding-bottom: 92px;}
+.hero{background-image: url(img/hero.png);
+background-size: cover;}
+.text_hero{font-size: 48px;
+text-align: center;
+font-style: italic;
+font-weight: 500;
+color: #ffffff;
+padding-top: 128px;
+padding-bottom: 127px;}
+.PPC{background-color: #ffffff;}
+.ppc_logo{
+float: left;
+padding-right: 48px;
+padding-bottom: 35px;
+}
+.ppc_logo img{width: 118px;
+height: 118px;}
+.team{background-color: #EEEEEE;
+padding-bottom: 94px;
+padding-top: 48px;}
+.team_card{
+display: inline-block;
+text-align: center;
+width: 350px;
+height: 283px;
+margin-right: 50px;}
+.foto{width: 168px;
+height: 168px;}
+.name{font-size: 24px;
+font-weight: 700;
+color: #007765;}
+.prof{font-size: 18px;
+font-style: italic;}
+.footer{background-color: #333333;
+background-size: cover;
+padding-top: 48px;
+padding-bottom: 64px;}
+.foo_text{color: #ffffff;
+font-size: 18px;
+text-align: center;
+font-weight: 400;
+padding-left: 340px;
+padding-right: 339px;}
